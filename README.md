@@ -1,7 +1,3 @@
-Absolutely, Vivek! Here's a **complete professional-level `README.md`** for your **GenMed-AI** project, tailored specifically for GitHub and potential collaborators/employers:
-
----
-
 ```markdown
 # 🧠 GenMed-AI: AI-Powered Medical Assistant for Rural India 🇮🇳
 
@@ -34,7 +30,7 @@ GenMed-AI is an AI-based healthcare assistant designed to support medical profes
 - [Pydantic](https://docs.pydantic.dev/)
 - [Uvicorn](https://www.uvicorn.org/)
 - [Deepgram API](https://developers.deepgram.com/) — for voice transcription
-- [OpenAI / LLM integration] — for diagnosis suggestions
+- [OpenAI](https://openai.com/) / LLM integration — for diagnosis suggestions
 
 ---
 
@@ -82,7 +78,7 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
 
-> 🔐 Add your API keys (e.g., Deepgram, OpenAI) to `.env`
+> 🔐 Add your API keys (e.g., Deepgram, OpenAI) to `.env` file in the backend folder.
 
 ---
 
@@ -142,19 +138,5 @@ MIT License © 2025 [Vivek Harsh](https://www.vivekharsh.in)
 * 📧 Email: [vivekharsh.work@gmail.com](mailto:vivekharsh.work@gmail.com)
 * 🧑‍💻 GitHub: [@HarshTechStack](https://github.com/HarshTechStack)
 
-````
-
----
-
-### ✅ Instructions:
-
-1. **Save this** as `README.md` inside your `/GENMED-AI` root folder.
-2. Then run:
-
-```bash
-git add README.md
-git commit -m "Add full project README"
-git push
-````
-
-
+```
+```
