@@ -1,4 +1,4 @@
-```markdown
+
 # 🧠 GenMed-AI: AI-Powered Medical Assistant for Rural India 🇮🇳
 
 GenMed-AI is an AI-based healthcare assistant designed to support medical professionals and patients in rural regions of India. It bridges the gap between modern healthcare technologies and underserved communities using a powerful combination of **FastAPI**, **React**, **LLMs**, and **voice AI** technologies.
